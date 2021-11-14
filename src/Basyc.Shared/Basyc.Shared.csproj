@@ -14,9 +14,10 @@
     <PackageProjectUrl>https://github.com/BasycOpenSource</PackageProjectUrl>
     <RepositoryUrl>https://github.com/BasycOpenSource/Shared.git</RepositoryUrl>
     <PackageTags>Basyc Basyc.Shared</PackageTags>
-    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageReleaseNotes>prerelease version</PackageReleaseNotes>
     <Version>0.1.0-prerelease</Version>
     <OutputType>Library</OutputType>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
